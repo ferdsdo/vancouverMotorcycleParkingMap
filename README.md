@@ -1,4 +1,4 @@
-# vancouverArtMap
-Web map of The City of Vancouver Art using leaflet
+# vancouverMotorcycleParkingMap
+Web map of The City of Vancouver Motorcycle Parking using leaflet
 
-https://ferdsdo.github.io/vancouverArtMap/
+https://ferdsdo.github.io/vancouverMotorcycleParkingMap/
