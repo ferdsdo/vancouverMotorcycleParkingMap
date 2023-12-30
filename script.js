@@ -54,7 +54,7 @@ var legend = L.control({position: 'bottomright'});
 legend.onAdd = function (map) {
 
     var div = L.DomUtil.create('div', 'info legend')
-    div.innerHTML += "Blue: Non-Metered <br>Green: Metered"
+    div.innerHTML += "<i class='blue'></i>Non-Metered<br><i class='green'></i>Metered"
     return div;
 };
 
